@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TrumpNews</string>
+    <string name="emptylist">There were no results, please try again (and check your internet connection)</string>
 </resources>
